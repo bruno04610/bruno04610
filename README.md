@@ -4,10 +4,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado por tecnologia,
 
 ## 🚀 Sobre Mim
 
-- **Nome:** Bruno
+- **Nome:** Bruno de Ataide Gracini
 - **Localização:** [Sua Localidade]
-- **Formação:** [Sua Formação]
-- **Tecnologias e Ferramentas:** [Liste suas tecnologias e ferramentas favoritas, ex: Python, JavaScript, React, Docker]
+- **Formação:** Análise Desenvolvimento de Sistemas
+- **Tecnologias e Ferramentas:** [Liste suas tecnologias e ferramentas favoritas, ex: Python, JavaScript,HTML,css]
 - **Interesses:** [Liste seus interesses, ex: Desenvolvimento Web, Inteligência Artificial, Machine Learning]
 
 ## 🔧 Tecnologias & Ferramentas
