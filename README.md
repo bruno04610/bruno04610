@@ -5,17 +5,14 @@ Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado por tecnologia,
 ## 🚀 Sobre Mim
 
 - **Nome:** Bruno de Ataide Gracini
-- **Localização:** [Sua Localidade]
+- **Localização:** Sorocaba SP
 - **Formação:** Análise Desenvolvimento de Sistemas
-- **Tecnologias e Ferramentas:** Python, JavaScript,HTML,css
-- **Interesses:** [Liste seus interesses, ex: Desenvolvimento Web, Inteligência Artificial, Machine Learning]
+- **Tecnologias e Ferramentas:** Python 
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Linguagens de Programação:** [Liste suas linguagens principais, ex: JavaScript, Python,HTML,Css
-- **Ferramentas e Plataformas:** [Liste ferramentas e plataformas que você utiliza, ex: Git, Docker, AWS]
-
-
+- **Linguagens de Programação:
+- **Ferramentas e Plataformas:
 
 ![Estatísticas do GitHub do Bruno](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
 
